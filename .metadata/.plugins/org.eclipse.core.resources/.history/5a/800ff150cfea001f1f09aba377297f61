@@ -1,4 +1,4 @@
-package ConfigAnnotation;
+package ConfigAnnotation_ValueTo_Variable;
 
 import org.springframework.stereotype.Component;
 
