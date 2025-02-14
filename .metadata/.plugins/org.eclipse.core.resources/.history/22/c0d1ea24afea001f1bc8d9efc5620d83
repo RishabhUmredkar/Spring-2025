@@ -48,8 +48,7 @@
 
 <!-- Dependecy_Injection_ValueBy_Constructor -->
 <bean id = "std" class = "Dependecy_Injection_ValueBy_Constructor.Student">
-	<constructor-arg value="101"></constructor-arg>
-	<constructor-arg value = "Raju"></constructor-arg>  
+	<Costructor-arg value = "101"></Costructor-arg>
 </bean>
 
 

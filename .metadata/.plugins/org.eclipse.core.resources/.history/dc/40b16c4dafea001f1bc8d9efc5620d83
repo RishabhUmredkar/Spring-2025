@@ -1,0 +1,10 @@
+package Dependecy_Injection_ValueBy_Constructor;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
