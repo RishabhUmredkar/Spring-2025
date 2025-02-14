@@ -1,0 +1,18 @@
+package DependecyInjection;
+
+public class Person {
+	private Mobile mobile;
+
+	public void work()
+	{
+		System.out.println("Calling.........");
+	}
+	public Mobile getMobile() {
+		return mobile;
+	}
+
+	public void setMobile(Mobile mobile) {
+		this.mobile = mobile;
+	}
+	
+}

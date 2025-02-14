@@ -1,0 +1,6 @@
+package DependecyInjection;
+
+public class Person {
+	private Mobile mobile;
+	
+}
