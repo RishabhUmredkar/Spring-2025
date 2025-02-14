@@ -5,9 +5,18 @@
 <fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
 <fullyQualifiedTypeName name="com.qsp.Student"/>
-<fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
-<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
 <fullyQualifiedTypeName name="DependecyInjection.Person"/>
 <fullyQualifiedTypeName name="org.springframework.asm.ModuleVisitor"/>
 <fullyQualifiedTypeName name="DependecyInjection.Mobile"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="Dependecy_Injection_ListTo_Variable.Trainer"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="Dependecy_Injection_MapTo_Variable.Shop"/>
+<fullyQualifiedTypeName name="Dependecy_Injection_ValueBy_Constructor.Student"/>
+<fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="Depedecy_Injection_ObjectUsing_Constructor.Person"/>
+<fullyQualifiedTypeName name="Depedecy_Injection_ObjectUsing_Constructor.Mobile"/>
 </qualifiedTypeNameHistroy>

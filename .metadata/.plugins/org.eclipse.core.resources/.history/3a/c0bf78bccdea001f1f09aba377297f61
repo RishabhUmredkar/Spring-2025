@@ -1,0 +1,5 @@
+package ConfigAnnotation;
+
+public class MyConfig {
+
+}
