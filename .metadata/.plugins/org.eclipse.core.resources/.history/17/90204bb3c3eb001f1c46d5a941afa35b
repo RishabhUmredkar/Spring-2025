@@ -1,0 +1,8 @@
+package AutoWired_Interface_ObjectTo_2Variable;
+
+public class Bike implements Vehicle{
+	public void type()
+	{
+		System.out.println("Bike..........");
+	}
+}
