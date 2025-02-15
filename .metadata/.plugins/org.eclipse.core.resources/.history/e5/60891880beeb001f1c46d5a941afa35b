@@ -1,0 +1,6 @@
+package AutoWired_Interface_ObjectTo_Variable;
+
+@autowired
+public class Person {
+
+}

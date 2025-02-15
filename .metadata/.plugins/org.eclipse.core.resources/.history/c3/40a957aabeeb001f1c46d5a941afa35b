@@ -1,0 +1,8 @@
+package AutoWired_Interface_ObjectTo_Variable;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Person {
+
+}
