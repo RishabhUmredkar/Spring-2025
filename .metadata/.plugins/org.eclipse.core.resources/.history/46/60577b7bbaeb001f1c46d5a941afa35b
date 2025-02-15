@@ -1,0 +1,19 @@
+package AutoWired;
+
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import ConfigAnnotation_ValueBy_Constructor.Bank;
+import ConfigAnnotation_ValueBy_Constructor.MyConfig;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		ConfigurableApplicationContext ac = new AnnotationConfigApplicationContext(MyConfig.class);
+		Bank bank = ac.getBean("myBank", Bank.class);
+		System.out.println(bank.getId());
+		System.out.println(bank.getName());
+
+	}
+
+}

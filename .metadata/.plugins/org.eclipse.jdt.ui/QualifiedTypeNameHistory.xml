@@ -15,8 +15,16 @@
 <fullyQualifiedTypeName name="java.lang.Double"/>
 <fullyQualifiedTypeName name="Dependecy_Injection_MapTo_Variable.Shop"/>
 <fullyQualifiedTypeName name="Dependecy_Injection_ValueBy_Constructor.Student"/>
-<fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
 <fullyQualifiedTypeName name="Depedecy_Injection_ObjectUsing_Constructor.Person"/>
 <fullyQualifiedTypeName name="Depedecy_Injection_ObjectUsing_Constructor.Mobile"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+<fullyQualifiedTypeName name="org.springframework.context.ConfigurableApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+<fullyQualifiedTypeName name="ConfigAnnotation.MyConfig"/>
+<fullyQualifiedTypeName name="ConfigAnnotation.Bank"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
 </qualifiedTypeNameHistroy>
