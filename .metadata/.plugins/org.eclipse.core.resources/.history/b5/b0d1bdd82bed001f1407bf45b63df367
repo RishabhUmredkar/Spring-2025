@@ -1,0 +1,5 @@
+package BeanAnnotation;
+
+public class MyConfig {
+
+}

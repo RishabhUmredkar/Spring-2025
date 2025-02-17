@@ -32,5 +32,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="E:/QSpider Coding/Jar_Files/postgresql-42.7.3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
