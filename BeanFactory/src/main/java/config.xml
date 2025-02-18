@@ -55,8 +55,8 @@
 
 
 <!-- Depedecy_Injection_ObjectUsing_Constructor -->
-<bean id = "mb" class= "Depedecy_Injection_ObjectUsing_Constructor.Mobile"></bean>
-<bean id = "per" class = "Depedecy_Injection_ObjectUsing_Constructor.Person">
+<bean id = "mb" class= "Depedency_Injection_ObjectUsing_Constructor.Mobile"></bean>
+<bean id = "per" class = "Depedency_Injection_ObjectUsing_Constructor.Person">
 	<constructor-arg ref = "mb"></constructor-arg>	
 </bean>
 

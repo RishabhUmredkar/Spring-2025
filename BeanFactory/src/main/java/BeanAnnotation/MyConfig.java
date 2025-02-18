@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @ComponentScan(basePackages = "BeanAnnotation")
+
 public class MyConfig {
 
 	@Bean(value = "getCon")
