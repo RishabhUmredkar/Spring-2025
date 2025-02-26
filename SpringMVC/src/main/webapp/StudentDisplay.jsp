@@ -8,8 +8,8 @@
 </head>
 <body>
 
-<h1>Name : ${naam}</h1>
-<h1>Phone: ${mob}</h1>
-<h1>Email : ${mail}</h1>
+<h1>Name : ${Name}</h1>
+<h1>Phone: ${Phone}</h1>
+<h1>Email : ${Email}</h1>
 </body>
 </html>

@@ -263,3 +263,24 @@
 2025-02-23 01:49:11,647 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
 2025-02-23 01:52:35,029 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
 2025-02-23 01:52:35,030 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
+2025-02-24 18:17:20,781 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-02-24 18:17:49,910 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
+2025-02-24 18:17:49,918 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
+2025-02-24 18:18:58,057 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
+2025-02-24 18:18:58,063 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
+2025-02-24 18:19:06,240 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
+2025-02-24 18:19:06,244 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
+2025-02-24 18:22:56,894 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
+2025-02-24 18:22:56,898 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
+2025-02-24 18:23:03,725 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
+2025-02-24 18:23:03,727 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
+2025-02-24 18:23:17,376 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
+2025-02-24 18:23:17,380 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
+2025-02-24 18:24:27,584 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
+2025-02-24 18:24:27,586 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
+2025-02-24 18:25:46,242 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
+2025-02-24 18:25:46,246 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
+2025-02-24 18:26:17,779 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
+2025-02-24 18:26:17,782 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources
+2025-02-24 18:26:46,540 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\main\resources
+2025-02-24 18:26:46,542 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\QSpider Coding\Spring ENew\SpringMVC\src\test\resources

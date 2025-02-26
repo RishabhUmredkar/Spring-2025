@@ -1,0 +1,9 @@
+package com.qsp;
+
+public class Employee {
+
+	private String name;
+	private long phone;
+	private String email;
+	
+}

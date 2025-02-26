@@ -2,6 +2,7 @@ package com.qsp;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
@@ -18,7 +19,7 @@ public class MyController {
 		return "home.jsp";
 	}
 	
-	@PostMapping("/reg")
+	//@PostMapping("/reg")
 	public ModelAndView getStudentData(HttpServletRequest req)
 	{
 		String name = req.getParameter("Name");
@@ -31,5 +32,17 @@ public class MyController {
 		mv.addObject("mail" ,Number);
 		
 		return mv;
+	}
+	
+	//@PostMapping("/reg")
+	@GetMapping("/reg")
+	public ModelAndView registerEmployee(@ModelAttribute Employee e, ModelAndView mv)
+	{
+		mv.addObject("Name", e.getName());
+		mv.addObject("Phone", e.getEmail());
+		mv.addObject("Email", e.getPhone());
+		mv.setViewName("StudentDisplay.jsp");
+		return mv;
+		
 	}
 }

@@ -1,0 +1,48 @@
+package com.qsp;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+import jakarta.servlet.http.HttpServlet;
+import jakarta.servlet.http.HttpServletRequest;
+
+@Controller
+public class MyController {
+
+	@RequestMapping("/hi")
+	public String getRequest()
+	{
+		return "home.jsp";
+	}
+	
+	//@PostMapping("/reg")
+	public ModelAndView getStudentData(HttpServletRequest req)
+	{
+		String name = req.getParameter("Name");
+		String Mob = req.getParameter("phone");
+		String Number = req.getParameter("email");
+		
+		ModelAndView mv = new ModelAndView("StudentDisplay.jsp");
+		mv.addObject("naam" ,name);
+		mv.addObject("mob" ,Mob);
+		mv.addObject("mail" ,Number);
+		
+		return mv;
+	}
+	
+	@PostMapping
+	@GetMapping("/reg")
+	public ModelAndView registerEmployee(@ModelAttribute Employee e, ModelAndView mv)
+	{
+		mv.addObject("Name", e.getName());
+		mv.addObject("Phone", e.getEmail());
+		mv.addObject("Email", e.getPhone());
+		mv.setViewName("StudentDisplay.jsp");
+		return mv;
+		
+	}
+}

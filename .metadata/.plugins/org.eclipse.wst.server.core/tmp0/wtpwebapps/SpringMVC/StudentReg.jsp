@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="reg" method = "post">
+<form action="reg" >
 Name : <input type="text" name = "Name"><br>
 Phone : <input type="number" name = "phone"><br>
 Email : <input type="email" name = "email"><br>
