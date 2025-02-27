@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd
+            http://www.springframework.org/schema/context
+            http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+
+<bean id= "MyStudent" class="com.qsp.Student"></bean>
+
+
+<!-- package Dependecy_Injection_ObjectUsing_Setter;-->
+
+<bean id = "myMobile" class = "Dependecy_Injection_ObjectUsing_Setter.Mobile"> </bean>
+
+<bean id = "myPerson" class = "Dependecy_Injection_ObjectUsing_Setter.Person">
+	<property name="mobile" ref = "myMobile"></property>
+</bean>
+
+
+
+
+<!-- package Dependecy_Injection_ListTo_Variable; -->
+<bean id = "trainer" class = "Dependecy_Injection_ListTo_Variable.Trainer">
+	<property name = "subject">
+	<list>
+		<value>Java</value>
+		<value>SQL</value>
+	</list>
+	</property>
+</bean>
+
+
+
+<!-- Dependecy_Injection_MapTo_Variable -->
+<bean id = "shop" class="Dependecy_Injection_MapTo_Variable.Shop">
+	<property name = "name" value = "Dmart"></property>
+	<property name = "itmes">
+		<map>
+			<entry key = "pen" value = "10"></entry>
+			<entry key = "NoteBook" value = "500"></entry>
+		</map>
+	</property>
+</bean>
+
+
+
+<!-- Dependecy_Injection_ValueBy_Constructor -->
+<bean id = "std" class = "Dependecy_Injection_ValueBy_Constructor.Student">
+	<constructor-arg value="101"></constructor-arg>
+	<constructor-arg value = "Raju"></constructor-arg>  
+</bean>
+
+
+
+<!-- Depedecy_Injection_ObjectUsing_Constructor -->
+<bean id = "mb" class= "Depedency_Injection_ObjectUsing_Constructor.Mobile"></bean>
+<bean id = "per" class = "Depedency_Injection_ObjectUsing_Constructor.Person">
+	<constructor-arg ref = "mb"></constructor-arg>	
+</bean>
+
+
+</beans>

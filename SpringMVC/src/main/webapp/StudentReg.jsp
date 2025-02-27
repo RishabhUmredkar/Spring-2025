@@ -7,11 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="reg" >
-Name : <input type="text" name = "Name"><br>
-Phone : <input type="number" name = "phone"><br>
-Email : <input type="email" name = "email"><br>
-<input type="submit" value="Register">
+
+<form action="stdreg" method="post">
+name : <input type="text" name = "name"><br>
+Phone : <input type="text" name = "phone"><br>
+Email : <input type="text" name = "email"><br>
+<input type="submit" value="reg">
 </form>
 </body>
 </html>

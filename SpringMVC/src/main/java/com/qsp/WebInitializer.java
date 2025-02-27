@@ -12,12 +12,13 @@ public class WebInitializer extends AbstractAnnotationConfigDispatcherServletIni
 
 	@Override
 	protected Class<?>[] getServletConfigClasses() {
-		return new Class[] {MyConfig.class};
-		
+		// TODO Auto-generated method stub
+		return new Class [] {MyConfig.class};
 	}
 
 	@Override
 	protected String[] getServletMappings() {
+		// TODO Auto-generated method stub
 		return new String[] {"/"};
 	}
 

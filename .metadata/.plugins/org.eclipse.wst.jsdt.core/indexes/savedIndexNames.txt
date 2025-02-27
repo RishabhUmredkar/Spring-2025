@@ -1,9 +1,3 @@
 INDEX VERSION 1.4+E:\QSpider Coding\Spring ENew\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 145002494.index
-2305464790.index
-3922054834.index
 893552416.index
-893552416.index
-1406533325.index
-1653358174.index
-2751440141.index
