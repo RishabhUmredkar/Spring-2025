@@ -17,5 +17,7 @@ E:\QSpider Coding\Spring ENew\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsea
 \SpringMVC\src\main\java
 E:\QSpider Coding\Spring ENew\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1011273751.index
 \SpringMVCCREDOpertion\src\main\java
+E:\QSpider Coding\Spring ENew\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3599344635.index
+\Employee_Management_MVC\src\main\resources
 E:\QSpider Coding\Spring ENew\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\793674385.index
 \EmployeeProject\src\main\resources
