@@ -2,6 +2,13 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\QSpider Coding\Spring ENew\EmployeeProject\src\main\webapp\index.jsp"/>
+			<item value="E:\QSpider Coding\Spring ENew\BeanFactory"/>
+			<item value="E:\QSpider Coding\Spring ENew"/>
+			<item value="E:\QSpider Coding\Spring ENew\EmployeeCRUD"/>
+			<item value="E:\QSpider Coding\Spring ENew\Employee"/>
+			<item value="E:\QSpider Coding\Spring ENew\EmployeeMgmt\EmployeeMgmt"/>
+			<item value="E:\QSpider Coding\Spring ENew\EmployeeMgmt\EmployeeMgmt\src\main\webapp\edit.jsp"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -13,7 +20,7 @@
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
-		<item key="catalog" value="All Catalogs"/>
+		<item key="catalog" value="internal"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -25,13 +32,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.qsp.SpringMVC"/>
+			<item value="com.qsp.Maven_Project"/>
 		</list>
 		<list key="groupId">
 			<item value="com.qsp"/>
 		</list>
 		<list key="artifactId">
-			<item value="SpringMVC"/>
+			<item value="Maven_Project"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
