@@ -92,4 +92,12 @@ public class Student {
 		this.rating = rating;
 	}
 
+	@Override
+	public String toString() {
+		return "Student [id=" + id + ", name=" + name + ", stream=" + stream + ", passOut=" + passOut + ", email="
+				+ email + ", phone=" + phone + ", rating=" + rating + "]";
+	}
+	
+	
+
 }

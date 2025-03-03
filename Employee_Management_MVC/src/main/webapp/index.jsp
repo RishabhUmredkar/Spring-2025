@@ -71,7 +71,7 @@
 <body>
     <div class="glow"></div>
     <div class="container text-white">
-        <h1 class="mb-4">Welcome to the Secure Portal</h1>
+        <h1 class="mb-4">Welcome to the Student Portal</h1>
         <p class="mb-4">Please select your login type</p>
         <button class="btn btn-primary mb-3" onclick="location.href='userLogin.jsp'">User Login</button><br>
         <button class="btn btn-danger" onclick="location.href='adminLogin.jsp'">Admin Login</button>

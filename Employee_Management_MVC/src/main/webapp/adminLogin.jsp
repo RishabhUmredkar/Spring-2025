@@ -54,7 +54,7 @@
 <body>
     <div class="container text-white text-center">
         <h2 class="mb-4">Admin Login</h2>
-        <form action="adminLogin" method="post">
+        <form action="adminLogin" method="get">
             <div class="mb-3">
                 <input type="text" class="form-control" placeholder="Name" name="name" required>
             </div>
